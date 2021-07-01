@@ -5,9 +5,15 @@ My free-time project
 
 ### Motivation:
 In Vietnam we play Blackjack on Tet Holiday, because of everlong losing streak, I come up with the idea: Given initial set of 2 cards, what is expected value of money ratio if I pull 1 more card. 
-Labels: Win 1.0, Lose -1.0.
+
+Labels: 
+  * Win: `1.0`
+  * Lose: `-1.0`
 
 ### Result
+
+`EV: Predicted expected value of neural net`
+
 EV: -0.5190 | True label: 1.0  | Cards: ['5♠' '7♦']
 
 EV: -0.5109 | True label: 1.0  | Cards: ['7♥' '8♦']
