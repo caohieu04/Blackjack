@@ -13,7 +13,7 @@ Labels:
 ### Result
 
 `EV: Predicted expected value of neural net`
-
+```
 EV: -0.5190 | True label: 1.0  | Cards: ['5♠' '7♦']
 
 EV: -0.5109 | True label: 1.0  | Cards: ['7♥' '8♦']
@@ -49,3 +49,4 @@ EV: -0.5019 | True label: -1.0  | Cards: ['7♥' '8♠']
 EV: -0.4958 | True label: 1.0  | Cards: ['4♣' 'Q♥']
 
 EV: -0.5048 | True label: -1.0  | Cards: ['3♥' 'K♥']
+```
