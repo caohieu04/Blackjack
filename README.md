@@ -14,8 +14,8 @@ Labels:
 
 `EV: Predicted expected value of neural net`
 ```
-|Cards|EV|
-|----|----:|
+|Cards      |EV       |
+|----     |       ----:|
 | ['5♠' '7♦']  | -0.5190| 
 | ['7♥' '8♦']  | -0.5109| 
 | ['J♥' 'K♥']  | -0.8039| 
