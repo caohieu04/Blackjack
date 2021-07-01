@@ -13,6 +13,7 @@ Labels:
 ### Result
 
 `EV: Predicted expected value of neural net`
+`-0.5190 means in the long run, betting a total of 1000$ will result in a total loss of 519$`
 
 |Cards      |EV       |
 |----     |       ----|
